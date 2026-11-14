@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+/build/
+/dist/
+/protected-build/
+/protected-dist/
+/installer/
+/hot_input/
+/prints_archive/
+/salikha_layout.json
+/salikha_counter.json
+/salikha_counter.json.lock
+/salikha_copied_files.json

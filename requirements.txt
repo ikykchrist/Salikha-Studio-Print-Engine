@@ -1,0 +1,8 @@
+Pillow>=10.1.0
+watchdog>=3.0.0
+pywin32>=300; sys_platform == "win32"
+pyinstaller>=6.0.0
+cryptography>=46.0
+certifi>=2025.1
+keyring>=25.0
+Cython>=3.1
